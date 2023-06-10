@@ -1,2 +1,2 @@
 # Employee-Management
-Employee Management using java and Mysql
+Employee Management using java and MySQL
